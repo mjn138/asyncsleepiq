@@ -9,7 +9,7 @@ from .consts import (
     BED_LIGHTS,
     FOUNDATION_TYPES,
     MASSAGE_MODE,
-    MASSAGE_SPEEDS,
+    MASSAGE_SPEED,
     End,
     Mode,
     Side,
