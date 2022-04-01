@@ -45,7 +45,12 @@ REVITILIZE = 2
 WAVE = 3
 
 MASSAGE_MODE = [OFF, SOOTHE, REVITILIZE, WAVE]
-
+class Speed(str, enum.Enum):
+    OFF = "OFF"
+    
+class Mode(str, enum.Enum):
+    OFF = "OFF"
+ 
 class Side(str, enum.Enum):
     LEFT = "L"
     RIGHT = "R"
