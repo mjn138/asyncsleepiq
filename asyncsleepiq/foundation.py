@@ -8,7 +8,7 @@ from .api import SleepIQAPI
 from .consts import (
     BED_LIGHTS,
     FOUNDATION_TYPES,
-    MASSAGE_MODES,
+    MASSAGE_MODE,
     MASSAGE_SPEEDS,
     End,
     Mode,
